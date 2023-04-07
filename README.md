@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm currently a computer engineering student at Düzce University<br>🌱 I’m currently learning Java Script and C++<br>📫 How to reach me: <a href="mailto:emreeroglu2135@gmail.com">My Mail</a> <br>⚡ Fun fact: I am a big Formula 1 fan
+👨‍💻 I'm currently a computer engineering student at Düzce University<br>🌱 I’m currently learning Java Script and C++<br>📫 How to reach me: <a href="mailto:emre2135samet@gmail.com">My Mail</a> <br>⚡ Fun fact: I am a big Formula 1 fan
 
 
 ## 🌐 Socials:
